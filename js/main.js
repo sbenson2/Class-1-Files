@@ -8,4 +8,4 @@ count = 0; //integer....
 
 string = 'Hello world'; //this is a string. 
 
-
+console.log(yes, Yes);
