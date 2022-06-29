@@ -7,5 +7,13 @@ Boolean = true; //this is true and false basically. Greate for controlling state
 count = 0; //integer....
 
 string = 'Hello world'; //this is a string. 
+PersonalName = "Hi, my name is Wesley Benson"; //my name
+PersnoalFood = "and my favorite food is Ice Cream!" //my favorite food
 
-console.log(yes, Yes);
+console.log(PersonalName, PersnoalFood);
+
+/*
+
+block comment using these. 
+
+*/
