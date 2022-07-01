@@ -8,26 +8,27 @@ block comment using these.
 
 //variables 
 
-var Boolean = true; //this is true and false basically. Greate for controlling states of objects.
+let Boolean = true; //this is true and false basically. Greate for controlling states of objects.
 
-var count = 0; //integer....
+let count = 0; //integer....
 
-var string = 'Hello world'; //this is a string. 
+let string = 'Hello world'; //this is a string. 
 
-var PersonalName = "Hi, my name is Wesley Benson"; //my name
-var PersnoalFood = "and my favorite food is Ice Cream!"; //my favorite food
+let PersonalName = "Hi, my name is Wesley Benson"; //my name
+let PersnoalFood = "and my favorite food is Ice Cream!"; //my favorite food
 
 //These are not used any more. 
 //console.log(PersonalName);
 //console.log(PersnoalFood);
 
-var BigString = "Supercalifragilisticexpialidocious";
-var AnyNumber = 1.34;
-var SomeBigInt = BigInt(10);
+let BigString = "Supercalifragilisticexpialidocious";
+let AnyNumber = 1.34;
+let SomeBigInt = BigInt(10);
+
+AnyNumber += 3;
 
 console.log(BigString.length);
+console.log(AnyNumber);
 console.log(typeof AnyNumber);
 console.log(typeof SomeBigInt);
-
-
 
